@@ -1,2 +1,2 @@
 # Portfolio
-sample portfolio
+Simple design of a portfolio
